@@ -1,0 +1,8 @@
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/dlib.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/package.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/package_source.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/install/local.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/install.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/eyetrack/opencv_proj/include/dlib/out/build/x64-Debug/CMakeFiles/list_install_components.dir
