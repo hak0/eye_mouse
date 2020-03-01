@@ -3,7 +3,7 @@ a simple cnn project of eye-tracking mouse
 
 It runs on the windows x64 platform.
 The program has two parts: 
-* c++ frontend: grabbinng images from a webcam(yes you need a webcam), and controlling the cursor
+* c++ frontend: grabbinng images from a webcam(yes a webcam is needed), and controlling the cursor
 * keras backend: dealing with CNN things.
 
 It is inspired from [lookie lookie](https://github.com/cpury/lookie-lookie)
