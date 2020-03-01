@@ -8,6 +8,6 @@ The program has two parts:
 
 It is inspired from [lookie lookie](https://github.com/cpury/lookie-lookie)
 
-and just like lookie lookie, it needs 20 initial trains, and then it can predict where you are looking at, and move cursor there.
+and just like lookie lookie, it needs 20 initial trains. After that it can predict where you are looking at, and move cursor there.
 
 ![a demo gif](demo.gif)
